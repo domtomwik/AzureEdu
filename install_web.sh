@@ -1,3 +1,3 @@
-apt-get update -y && apt-get upgrade -y
+yum update -y && apt-get upgrade -y
 
-apt-get install -y nginx
+yum install -y nginx
